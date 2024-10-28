@@ -1,1 +1,1 @@
-This is another sample file.
+# This is another sample file.
